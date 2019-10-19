@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Row } from "antd";
 import SigninForm from "../components/SigninForm";
-import signinBg from "../images/signin_bg4.jpg";
+import signinBg from "../images/signin_bg.jpg";
 
 const Page = styled(Row).attrs(() => ({
   type: "flex",

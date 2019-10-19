@@ -21,7 +21,7 @@ const StyledInput = styled.input`
 `;
 
 const ButtonArea = styled.div`
-  margin-top: 40px;
+  margin-top: 25px;
 `;
 
 const StyledButton = styled.button`
